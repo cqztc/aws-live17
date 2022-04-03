@@ -4,8 +4,8 @@
 #!/bin/bash
 yum update -y
 yum install git -y
-git clone https://github.com/cqztc/aws-live14.git
-cd aws-live14
+git clone https://github.com/cqztc/aws-live17.git
+cd aws-live17
 pip3 install flask
 pip3 install pymysql
 pip3 install boto3
